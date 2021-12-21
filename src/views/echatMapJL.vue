@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div id="eChart" style="width: 100%; height: 600px"></div>
+  <div align="center">
+    <div id="eChart" style="width: 800px; height: 600px;"></div>
   </div>
 </template>
 <script>
